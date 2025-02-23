@@ -14,7 +14,7 @@ automations. The plugin will automatically execute the actions when the trigger 
 You can install the package via composer:
 
 ```bash
-composer require tschucki/filament-automations
+composer require marcoamendola/filament-automations
 ```
 
 You can install the plugin using:
